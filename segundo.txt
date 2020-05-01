@@ -1,4 +1,12 @@
 
+| joel-eche      | 60      | 65       | 1.08  |
+| alessandro54   | 2       | 2        | 1.0   |
+| marccmartian   | 8       | 8        | 1.0   |
+| alexRai98      | 5       | 5        | 1.0   |
+| elpeaton       | 2       | 4        | 2.0   |
+| robertmedinasb | 10      | 10       | 1.0   |
+| jorgeluis594   | 4       | 4        | 1.0   |
+
 +----------------+---------+----------+-------+
 | Reviewer       | Reviews | Comments | Ratio |
 +----------------+---------+----------+-------+
@@ -76,3 +84,14 @@
 | TheJarX        | 4       | 4        | 1.0   |
 | BenMaRe-Dev    | 3       | 3        | 1.0   |
 | DeveLawyer     | 25      | 25       | 1.0   |
+
+| acastemoreno   | 18      | 18       | 1.0   |
+| Saidab1        | 6       | 6        | 1.0   |
+| gpanebra       | 1       | 1        | 1.0   |
+| fernandinux    | 3       | 3        | 1.0   |
+| drihu          | 41      | 42       | 1.02  |
+| MariellaUgarte | 4       | 4        | 1.0   |
+| joel-eche      | 60      | 65       | 1.08  |
+| alessandro54   | 2       | 2        | 1.0   |
+| marccmartian   | 8       | 8        | 1.0   |
+| alexRai98      | 5       | 5        | 1.0   |
