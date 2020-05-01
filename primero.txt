@@ -27,3 +27,26 @@ including versions of Lorem Ipsum.
 mil
 
 tres mil
+
+
+Pull request review comments are comments on a 
+portion of the unified diff made during a pull 
+request review. Commit comments and issue comments
+are different from pull request review comments. 
+You apply commit comments directly to a commit and you
+apply issue comments without referencing a portion
+of the unified diff. For more information,
+see "Create a commit comment" and "Create an issue comment."
+
+The GitHub Apps API enables you to get
+high-level information about a GitHub App a
+s well as specific information about
+installations of the app. To learn more about GitHub Apps, see 
+"Authenticating as a GitHub App."
+
+If you are using your app with GitHub Actions and 
+want to modify workflow files, you must authenticate on behalf 
+of the user with an OAuth token that includes the workflow scope.
+The user must have admin or write permission to the repository
+that contains the workflow file. For more information, see
+"Understanding scopes for OAuth apps."

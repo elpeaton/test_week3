@@ -63,3 +63,16 @@
 | robertmedinasb | 10      | 10       | 1.0   |
 | jorgeluis594   | 4       | 4        | 1.0   |
 +----------------+---------+----------+-------+
+
+
+
+| diegotc86      | 10      | 10       | 1.0   |
+| WilberC        | 9       | 16       | 1.78  |
+| kucho          | 43      | 43       | 1.0   |
+| fmunives       | 58      | 58       | 1.0   |
+| orlando-rojas  | 41      | 42       | 1.02  |
+| echounit1      | 9       | 11       | 1.22  |
+| seussz         | 29      | 31       | 1.07  |
+| TheJarX        | 4       | 4        | 1.0   |
+| BenMaRe-Dev    | 3       | 3        | 1.0   |
+| DeveLawyer     | 25      | 25       | 1.0   |
